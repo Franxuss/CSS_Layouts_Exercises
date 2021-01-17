@@ -1,12 +1,26 @@
 body {
 	margin: 0;
 }
+.section {
+	display: flex;
+	width: 100%;
+	height: 100%;
+}
 #sectionA {
 	background: blue;
+	display: inline-block;
+	width: 33%;
+	height: 800px;
 }
 #sectionB {
 	background: red;
+	display: inline-block;
+	width: 33%;
+	height: 800px;
 }
 #sectionC {
 	background: green;
+	display: inline-block;
+	width: 33%;
+	height: 800px;
 }

@@ -1,31 +1,9 @@
-h1 {
-	margin-top: 5px;
-	font-size: 80px;
-}
-.wrapper {
-	display: static;
-}
-header {
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
-	width: 95%;
-	height: 70px;
-	position: static;
-	font-size: 40px;
-}
-nav {
-	display: inline-block;
-	width: 10%;
-	height: 600px;
-	font-size: 40px;
-}
-section {
-	display: inline-block;
-	width: 85%;
-	height: 600px;
-	font-size: 40px;
-}
+/* your code here */
+
+/**************************************
+DON'T CHANGE ANYTHING AFTER THIS LINE
+**************************************/
+
 *,
 *:before,
 *:after {
